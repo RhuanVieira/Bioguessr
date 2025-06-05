@@ -1,0 +1,79 @@
+@import url("acesso.css");
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e8f5e9;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: auto;
+    padding: 40px 20px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    margin-top: 50px;
+    border-radius: 15px;
+  }
+  
+  h1 {
+    color: hsl(123, 46%, 34%);
+    font-family: "Oleo Script", system-ui;
+  }
+  
+  #question {
+    font-size: 1.4em;
+    margin-bottom: 20px;
+  }
+  
+  .option {
+    display: block;
+    padding: 10px 20px;
+    margin: 10px auto;
+    border: 2px solid #388e3c;
+    border-radius: 8px;
+    cursor: pointer;
+    max-width: 600px;
+    background-color: #c8e6c9;
+    transition: 0.3s;
+  }
+  
+  .option:hover {
+    background-color: #a5d6a7;
+  }
+  
+  #next-btn {
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-size: 1em;
+    background-color: #43a047;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  #next-btn:hover {
+    background-color: #ffffff;
+    border: 1px solid #388e3c;
+    color: #2e7d32;
+  }
+  
+  .hidden {
+    display: none;
+  }
+
+  .oleo-script-regular {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .oleo-script-bold {
+    font-family: "Oleo Script", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+  

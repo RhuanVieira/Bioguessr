@@ -1,0 +1,31 @@
+.Jogar{
+
+padding: 20px;
+padding-inline: 100px;
+border-radius: 25px;
+border: none;
+font-size: 1em;
+background-color: #43a047;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+margin-top: 70px;
+}
+.Jogar:hover{
+    background-color: #ffffff;
+    border: 1px solid #388e3c;
+    color: #2e7d32;
+
+
+
+}
+
+
+
+p{
+padding-top: 50px;
+text-justify: auto;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
