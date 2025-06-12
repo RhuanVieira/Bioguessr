@@ -3,10 +3,10 @@ const quizData = [
       question: "O que é transporte celular?",
       answer: "É o movimento de substâncias para dentro ou fora da célula através da membrana plasmática.",
       options: [
-        "É a produção de proteínas na célula.",
-        "É o movimento da célula no corpo.",
+        "É a produção de proteínas pelos ribossomos da célula.",
+        "É o desslocamento da célula para outras regiões do corpo durante processos como a resposta imunológica.",
         "É o movimento de substâncias para dentro ou fora da célula através da membrana plasmática.",
-        "É a divisão celular por mitose."
+        "É o processo de multiplicação da célula por meio da divisão mitótica."
       ]
     },
     {
