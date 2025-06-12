@@ -3,9 +3,9 @@ const quizData = [
       question: "O que é transporte celular?",
       answer: "É o movimento de substâncias para dentro ou fora da célula através da membrana plasmática.",
       options: [
-        "É a produção de proteínas pelos ribossomos da célula.",
-        "É o desslocamento da célula para outras regiões do corpo durante processos como a resposta imunológica.",
         "É o movimento de substâncias para dentro ou fora da célula através da membrana plasmática.",
+          "É a produção de proteínas pelos ribossomos da célula.",
+        "É o desslocamento da célula para outras regiões do corpo durante processos como a resposta imunológica.",
         "É o processo de multiplicação da célula por meio da divisão mitótica."
       ]
     },
@@ -14,9 +14,9 @@ const quizData = [
       answer: "Controlar a entrada e saída de substâncias, mantendo o equilíbrio interno da célula (homeostase).",
       options: [
         "Produzir energia para a célula.",
-        "Controlar a entrada e saída de substâncias, mantendo o equilíbrio interno da célula (homeostase).",
         "Transportar oxigênio no sangue.",
         "Fazer a digestão celular."
+           "Controlar a entrada e saída de substâncias, mantendo o equilíbrio interno da célula (homeostase).",
       ]
     },
     {
@@ -24,8 +24,8 @@ const quizData = [
       answer: "O transporte passivo não requer energia (ATP), enquanto o transporte ativo consome energia.",
       options: [
         "Ambos usam energia.",
-        "O transporte passivo não requer energia (ATP), enquanto o transporte ativo consome energia.",
         "Apenas o passivo usa proteínas.",
+           "O transporte passivo não requer energia (ATP), enquanto o transporte ativo consome energia.",
         "O ativo só ocorre em animais."
       ]
     },
@@ -45,8 +45,8 @@ const quizData = [
       options: [
         "Leva água para dentro da célula.",
         "Transporta oxigênio no sangue.",
-        "Transporta 3 íons de sódio para fora da célula e 2 íons de potássio para dentro, consumindo ATP.",
         "Produz ATP."
+           "Transporta 3 íons de sódio para fora da célula e 2 íons de potássio para dentro, consumindo ATP.",
       ]
     },
     {
